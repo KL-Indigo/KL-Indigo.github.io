@@ -1,7 +1,7 @@
 # Programming Portfolio
 
 ## Adventure Game
-The [Adventure Game](https://github.com/KL-Indigo/Adventure-Game) is a project that will demonstrate object-oriented programming.
+The [Adventure Game](https://github.com/KL-Indigo/Adventure-Game) is a project that will demonstrate object-oriented programming. It will eventually have multiple regions, characters, items, and more.
 
 ## Study Application
 The Study Application shows terms and definitions and then allows you to test your knowledge. It shows the definitions in a random order and you have to type the matching term.
